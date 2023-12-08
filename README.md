@@ -10,7 +10,7 @@
 - 🙋‍♂️ Full Stack Web Developer.
 - 👉 Interested in building amazing frontend websites.
 - 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
-- 📄 Portfolio - "https://vaibhav-darvekar-portfolio-devv.netlify.app/"
+- 📄 Portfolio - "https://ericxportfolio.netlify.app/"
 
 <br>
  <div align="center">
